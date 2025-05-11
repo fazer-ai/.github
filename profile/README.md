@@ -44,6 +44,7 @@ This GitHub Organization hosts the public side of our R&D:
 Unless stated otherwise in a repository, code developed by fazer.ai is always released under the **MIT License**.
 
 ## 📞 Contact
+| | |
 |---|---|
 | **Website** | <https://www.fazer.ai> |
 | **WhatsApp (Strategic Consulting)** | [+55 11 5199-9937](https://api.whatsapp.com/send?phone=551151999937) |
