@@ -1,7 +1,7 @@
 # fazer.ai — Intelligent Automation for High-Growth Companies  
 *Every company wants AI. Few know how to use it. We do.*
 
-[![fazer.ai](https://framerusercontent.com/images/HqY9djLTzyutSKnuLLqBr92KbM.png?scale-down-to=256)](https://fazer.ai)
+[![fazer.ai](https://framerusercontent.com/images/HqY9djLTzyutSKnuLLqBr92KbM.png?scale-down-to=256)](https://fazer.ai?utm_source=github&utm_campaign=profile&utm_medium=hero)
 
 ## ✨ About Us
 **fazer.ai** helps fast-growing organisations adopt state-of-the-art AI to **save time, cut costs and accelerate growth**.  
@@ -46,7 +46,7 @@ Unless stated otherwise in a repository, code developed by fazer.ai is always re
 ## 📞 Contact
 | | |
 |---|---|
-| **Website** | <https://www.fazer.ai> |
+| **Website** | [https://www.fazer.ai](https://fazer.ai?utm_source=github&utm_campaign=profile&utm_medium=contact) |
 | **WhatsApp (Strategic Consulting)** | [+55 11 5199-9937](https://api.whatsapp.com/send?phone=551151999937) |
 | **Email** | contact@fazer.ai |
 | **Office** | Av. Paulista, 1106 – Sala 01 Andar 16, São Paulo, SP, Brazil |
